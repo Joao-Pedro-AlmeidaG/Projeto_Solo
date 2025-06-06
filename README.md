@@ -18,4 +18,3 @@ Este projeto é um sistema simples em Python para o gerenciamento de manifestaç
 
 - Python 3.x
 - MySQL Server
-- Biblioteca `mysql-connector-python`
