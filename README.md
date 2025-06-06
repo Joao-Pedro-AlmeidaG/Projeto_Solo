@@ -1,6 +1,6 @@
 # Sistema de Ouvidoria
 
-Este projeto é um sistema simples em Python para o gerenciamento de manifestações como elogios, reclamações e sugestões. Ele realiza operações de cadastro, listagem, exclusão, contagem e pesquisa de manifestações armazenadas em um banco de dados MySQL.
+Este projeto é um sistema simples em Python para o gerenciamento de manifestações de uma ouvidoria como elogios, reclamações e sugestões. Ele realiza operações de cadastro, listagem, exclusão, contagem e pesquisa de manifestações armazenadas em um banco de dados MySQL.
 
 ## 📂 Estrutura dos Arquivos
 
